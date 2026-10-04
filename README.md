@@ -4,7 +4,7 @@ Neo4j Desktop is a local workspace for building and running graph databases on y
 
 You use it when the graph should stay on a laptop or a workstation. Create a database, load a file, write Cypher, and look at the result without booking a server first. A remote graph is still available when you need one, but the default path is local.
 
-![Banner Placeholder](e2e/imade1.jpg)
+![Banner Placeholder](e2e/image1.jpg)
 
 The home screen is a list of projects. Each project can hold one or more database instances. Start an instance, then open a query tool, a visual explorer, or an import flow from that same card. You do not keep a second notebook of ports and passwords for the everyday case.
 
@@ -48,7 +48,7 @@ neo4j desktop 2 is the generation most new installs use. If a guide shows the ol
 | Bloom | The click-through graph explorer |
 | Aura | The hosted Neo4j service |
 
-![Editor](e2e/imade2.jpg)
+![Editor](e2e/image2.jpg)
 
 ## Demo
 
@@ -56,7 +56,7 @@ A first session fits in a few minutes. Open a sample project if one is offered, 
 
 If you only want to see the query screen before you install, use a hosted browser pointed at a database you already trust. The desktop app is still the place that owns the local files. The demo click-through and the installed app should show the same result shapes: graph, table, and text.
 
-![Grid](e2e/imade3.png)
+![Grid](e2e/image3.png)
 
 ## Tech Stack
 
